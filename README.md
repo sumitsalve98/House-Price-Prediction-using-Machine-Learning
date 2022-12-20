@@ -12,5 +12,11 @@ The objective of the study is to predict the ideal prices of the houses based on
 
 Click [here](https://trainings.internshala.com/uploads/machine-learning/content_media/M5_Projectupdated_ML.zip) to download the dataset required to complete this project.
 
+## Authors
 
+- [@sumitsalve](https://github.com/sumitsalve98)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sumitsalve98.github.io/MyPortfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-salve-72b818217/)
 
